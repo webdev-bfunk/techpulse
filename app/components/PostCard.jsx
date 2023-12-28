@@ -1,6 +1,5 @@
-import Link from "next/link";
 import Image from "next/image";
-import { BsArrowRightShort } from "react-icons/bs";
+import Link from "next/link";
 const PostCard = ({ post, index }) => {
   return (
     <Link
